@@ -1,0 +1,48 @@
+[
+    {
+        "id":1,
+        "marque":"AGM",
+        "modele":"Glory",
+        "image" :"1.webp",
+        "prix":5165.95,
+        "shipping":0,
+        "discription" :"AGM Glory 5G Rugged Phone 8+256G Global Version Android 11 NFC Rugged Smartphone  6200mAh Arctic Battery 6.53' Celular Phones."
+
+    },
+    {
+        "id":2,
+        "marque":"Infinix",
+        "modele":"Note 11 Pro "   ,
+        "image" :"2.webp",
+        "prix":4800.6,
+        "shipping":0,
+        "discription":"Global version Infinix Note 11 Pro 8GB 128GB 6.95'' Display Smartphone Helio G96 120Hz Refresh Rate 64MP Camera 33W Super Charge"
+
+    }
+    ,
+    {
+        "id":3,
+        "marque":"OnePlus",
+        "modele":"9RT"   ,
+        "image" :"3.webp",
+        "prix":4329.15,
+        "shipping":1491.15,
+        "discription":"Original OnePlus 9RT 9R T 5G Smartphone Snapdagon 888 120Hz 6.62 inches E4 AMOLED Display 65T Warp Charging 50MP Cameras Phone"
+
+    },
+
+    {
+        "id":4,
+        "marque":"Oneplus",
+        "modele":"7 Pro"   ,
+        "image" :"4.webp",
+        "prix":3087.23,
+        "shipping":0,
+        "discription" :"Global ROM Original Oneplus 7 Pro Smartphone 6.67 Inch 3120*1440 Android 9 Snapdragon 855  48.0 MP Cameras NFC 5V 6A Mobile Phone"
+
+    }
+
+
+
+
+]
